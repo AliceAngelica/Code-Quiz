@@ -23,3 +23,5 @@ Code-Quiz is licensed under the MIT license.
 To play the Code-Quiz please open the link in your browser. To begin the quiz the user must select "Start Quiz." After pressing this button the questions will appear and the timer will begin to countdown. For each question there is one correct answer. Once the user has finished the quiz, they are prompted to enter their initials. Lastly, the user is directed to the highscores page.
 
 ## Deployed webpage link
+
+https://aliceangelica.github.io/Code-Quiz/
