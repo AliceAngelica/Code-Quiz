@@ -1,3 +1,4 @@
+//The three questions used in the quiz
 let questions = [
     {
         "title": "Common Data Types DO NOT include:",
